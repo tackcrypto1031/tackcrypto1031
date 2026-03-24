@@ -25,3 +25,22 @@ I'm a developer passionate about **AI image generation**, **workflow automation*
 ---
 
 Feel free to reach out at **tack1031@gmail.com**!
+
+<img src="https://raw.githubusercontent.com/tackcrypto1031/tackcrypto1031/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="right">
+  <img height="200" src="https://memeprod.ap-south-1.linodeobjects.com/user-maker-thumbnail/631262a5b4a9870bcc799e89d68d8145.gif"  />
+</div>
+
+###
