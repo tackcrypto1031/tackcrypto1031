@@ -12,6 +12,8 @@ I'm a developer passionate about **AI image generation**, **workflow automation*
 
 - 🔍 [**tk_comfyui_imageVL**](https://github.com/tackcrypto1031/tk_comfyui_imageVL): Batch image processing and VLM interrogation nodes using the Qwen-VL model family.
 
+- ✂️ [**tk_seethrough**](https://github.com/tackcrypto1031/tk_seethrough): ComfyUI fork of See-through for AI-powered character layer separation, with auto-fill, PSD export, and Spine 2D animation export.
+
 - 📡 [**local2other**](https://github.com/tackcrypto1031/local2other): Electron-based SSH/SCP tool for sending local files to multiple remote hosts at once.
 
 - 🃏 [**FF14_cardpvp**](https://github.com/tackcrypto1031/FF14_cardpvp): FF14 Triple Triad simulator and solver with Minimax AI and full game rule support.
