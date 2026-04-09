@@ -20,6 +20,8 @@ I'm a developer passionate about **AI image generation**, **workflow automation*
 
 - 🎭 [**tk_comfyui_img2mask**](https://github.com/tackcrypto1031/tk_comfyui_img2mask): ComfyUI node that extracts alpha channels from RGBA images as masks with dual output.
 
+- 🛠️ [**tk_comfyui_start_tool**](https://github.com/tackcrypto1031/tk_comfyui_start_tool): Desktop tool for managing multiple isolated ComfyUI installations with independent plugins, Python versions, and CUDA configs — includes plugin conflict analysis and snapshot rollback.
+
 - 📐 [**tk_comfyui_SimpleSize**](https://github.com/tackcrypto1031/tk_comfyui_SimpleSize): Smart resolution selector for ComfyUI with model-aware presets and built-in latent output.
 
 - 💡 [**tk_comfyui_view_and_light**](https://github.com/tackcrypto1031/tk_comfyui_view_and_light): Interactive 3D widget for camera and lighting control, auto-generating prompts for image gen.
