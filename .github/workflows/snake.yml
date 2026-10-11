@@ -21,7 +21,9 @@ jobs:
 
       - name: Push snake.svg to output branch
         run: |
-          cd dist
+          mkdir -p "$RUNNER_TEMP/snake"
+          cp dist/*.svg "$RUNNER_TEMP/snake/"
+          cd "$RUNNER_TEMP/snake"
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
