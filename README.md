@@ -47,8 +47,6 @@
 
 <p align="center">
   <a href="https://bladefeast.com/"><b>🎮 Play at bladefeast.com</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/tackcrypto1031/Dungeon-restaurant"><b>📂 Repository</b></a>
 </p>
 
 <details>
