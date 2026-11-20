@@ -14,30 +14,54 @@
 ## ⭐ Latest Project
 
 <p align="center">
-  <a href="https://github.com/tackcrypto1031/kaigong-agent">
-    <img src="https://raw.githubusercontent.com/tackcrypto1031/kaigong-agent/main/images/logo.png" alt="開工吧！社畜人生！ Kaigong Agent" width="520">
+  <a href="https://github.com/tackcrypto1031/Dungeon-restaurant">
+    <img src="assets/dungeon-restaurant/banner.jpg" alt="地下城餐館 Dungeon Restaurant" width="820">
   </a>
 </p>
 
-<p align="center">
-  <b>Turn AI coding into a little pixel island that goes to work by itself.</b><br>
-  A Windows / macOS desktop app that manages your AI coding agents like a city-building game.
-</p>
+<h3 align="center">地下城餐館 · Dungeon Restaurant</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tackcrypto1031/kaigong-agent/main/images/island.png" alt="Kaigong Agent island overview" width="720">
+  <b>Fight through the dungeon, then cook what you hunted.</b><br>
+  An online 2D pixel-art browser game: lead a party of four through the dungeon,<br>
+  then turn the loot into dishes at the restaurant you run back in town.
 </p>
 
-- 🏢 **One building = one project** — attach any git repo to a building on the island
-- 👷 **One employee = one agent** — Claude Code, Codex CLI, DeepSeek, Kimi, Gemini… each on its own branch
-- 📋 **A manager assigns tasks** — drop tasks on the board, review the results, merge when you're happy
-- 🔌 **MCP support** — let your own agent build roads, buildings, and decorations on the island
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><img src="assets/dungeon-restaurant/town.webp" alt="Walking through town from the restaurant to the dungeon gate"><br><sub>🏘️ Town — restaurant, blacksmith, dungeon gate</sub></td>
+    <td align="center" width="50%"><img src="assets/dungeon-restaurant/dungeon.webp" alt="Party fighting across platforms until the boss portal opens"><br><sub>⚔️ Grind 300 kills to open the Boss Portal</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="assets/dungeon-restaurant/boss.webp" alt="Mage finishing the Mushroom King with a fire skill"><br><sub>🍄 Boss fight — take down the Mushroom King</sub></td>
+    <td align="center" width="50%"><img src="assets/dungeon-restaurant/kitchen.webp" alt="Inventory, blacksmith upgrade, cooking and menu screens"><br><sub>🍲 Gear up, cook, and stock the menu</sub></td>
+  </tr>
+</table>
+
+- 🗺️ **Side-scrolling dungeon maps** — multi-layer platforms, endless mob refills, a world map that clears its fog as you explore
+- 🛡️ **Party of four** — swordsman, knight, cleric and mage; control one, AI teammates follow and fight
+- 👹 **Timed boss runs** — 30-minute boss maps with server-side clear settlement and loot
+- 🍳 **Your own restaurant** — cook dungeon materials into dishes, place furniture, serve customers for gold
+- 📤 **Dispatch** — send the party out while you're away and collect the haul later
+- ⚙️ **Stack** — Phaser 4 + TypeScript + Vite, Cloudflare Workers + D1, Better Auth
 
 <p align="center">
-  <a href="https://github.com/tackcrypto1031/kaigong-agent"><b>📂 Repository</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/tackcrypto1031/kaigong-agent/releases/latest"><b>⬇️ Download</b></a>
+  <a href="https://github.com/tackcrypto1031/Dungeon-restaurant"><b>📂 Repository</b></a>
 </p>
+
+<details>
+<summary>Previous project: 🏝️ <b>開工吧！社畜人生！ Kaigong Agent</b></summary>
+<br>
+<p align="center">
+  <a href="https://github.com/tackcrypto1031/kaigong-agent">
+    <img src="https://raw.githubusercontent.com/tackcrypto1031/kaigong-agent/main/images/logo.png" alt="開工吧！社畜人生！ Kaigong Agent" width="420">
+  </a>
+</p>
+<p align="center">
+  A Windows / macOS desktop app that manages your AI coding agents like a city-building game.<br>
+  <a href="https://github.com/tackcrypto1031/kaigong-agent">Repository</a> · <a href="https://github.com/tackcrypto1031/kaigong-agent/releases/latest">Download</a>
+</p>
+</details>
 
 ---
 
