@@ -14,12 +14,12 @@
 ## ⭐ Latest Project
 
 <p align="center">
-  <a href="https://github.com/tackcrypto1031/Dungeon-restaurant">
-    <img src="assets/dungeon-restaurant/banner.jpg" alt="地下城餐館 Dungeon Restaurant" width="820">
+  <a href="https://bladefeast.com/">
+    <img src="assets/dungeon-restaurant/banner.jpg" alt="勇者和他的深夜食堂" width="820">
   </a>
 </p>
 
-<h3 align="center">地下城餐館 · Dungeon Restaurant</h3>
+<h3 align="center">勇者和他的深夜食堂</h3>
 
 <p align="center">
   <b>Fight through the dungeon, then cook what you hunted.</b><br>
@@ -46,6 +46,8 @@
 - ⚙️ **Stack** — Phaser 4 + TypeScript + Vite, Cloudflare Workers + D1, Better Auth
 
 <p align="center">
+  <a href="https://bladefeast.com/"><b>🎮 Play at bladefeast.com</b></a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/tackcrypto1031/Dungeon-restaurant"><b>📂 Repository</b></a>
 </p>
 
